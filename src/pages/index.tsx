@@ -18,6 +18,9 @@ const Home: NextPage = () => {
 
       <main>
         <div className="text-red-500 font-bold">Hello World</div>
+        <a href="https://anilist.co/api/v2/oauth/authorize?client_id={12364}&response_type=token">
+          Login with AniList
+        </a>
       </main>
     </div>
   );
