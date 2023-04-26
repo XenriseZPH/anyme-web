@@ -55,4 +55,4 @@ Examples:
 
 ## License
 
-AnyMe is released under the MIT License. See [LICENSE](https://github.com/XenriseZPH/anyme-web/LICENSE) for more information.
+AnyMe is released under the MIT License. See [LICENSE](./LICENSE) for more information.
